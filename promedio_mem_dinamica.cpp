@@ -15,7 +15,8 @@ int main() {
 		cin >> ptr[i];
 		suma += ptr[i];
 		
-		float promedio = suma / n;
+		double promedio; 
+		promedio = suma / n;
 		cout << "El promedio es: " << promedio << endl;
 	}
 	
