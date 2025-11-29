@@ -1,3 +1,6 @@
-El archivo "promedio_mem_dinamica" pide al usuario ingresar el tamaño de su arreglo (a consideracion de este) y en base a esto pedira los valores cualesquiera , como consecuente calculara el promedio de estos datos.
+Aqui encontrara mini-programas hechos por mi. Se que son algo simples pero para mi son reflejo de mi esfuerzo.
 
-Se que tiene algunas cosas que se podrian mejorar pero prefiero dejarlo asi para recordarlo ya que es de los primeros problemas o retos que hago sin casi ayuda de pruebas anteriores.
+El archivo denominado "proyecto_integrador" es el proyecto mas grande que he tenido hasta la fecha. Fue un gran reto y una gran experiencia que sin duda me genera mucha alegria por haberlo concluido pero tambien me deja un gran aprendizaje.
+
+Gracias por leer :)
+
